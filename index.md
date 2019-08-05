@@ -8,7 +8,7 @@ other technical topics.
 I'm really excited to blog my journey on Github.com
 <ul>
   <li>
-    <a href="{{ post.url }}">{{ post.titel }}</a>
+    <a href="{{ post.url }}">{{ post.title }}</a>
   </li>
 </ul>
 # Get in Touch
