@@ -1,11 +1,11 @@
-# Frank's Website changed
+# Frank's Website layouts
 # My Projects
 Here is a list of projects that I have been working on
 # My Interests
 I'm interested in Robotics, Automation, Artificial Intelligence, Drones and many
 other technical topics.
 # My Blog
-I'm really excited to blog my journey on Github.com now
+I'm really excited to blog my journey on Github.com
 # Get in Touch
 <ul>
   <li>
