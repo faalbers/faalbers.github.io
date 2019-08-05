@@ -1,4 +1,8 @@
-# Frank's Website added posts
+# Frank's Website
+![headshot](head.jpg)
+## About the author
+My name is Frank Aalbers and I'm a Maker and coding newb interested in Robotics, Electronics , Drones and coding
+I'm creating this repo to learn GitHub
 # My Projects
 Here is a list of projects that I have been working on
 # My Interests
