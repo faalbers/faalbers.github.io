@@ -2,4 +2,4 @@
 layout: post
 author: faalbers
 ---
-Write your blog here
+This my first entry into my blog . I created this page learning GitHub from a book.
