@@ -5,6 +5,11 @@ My name is Frank Aalbers and I'm a Maker and coding newb interested in Robotics,
 I'm creating this repo to learn GitHub
 # My Projects
 Here is a list of projects that I have been working on
+<ul>
+  <li>
+    <a href="https://faalbers.github.io/HelloWorld">Hello World Project</a>
+  </li>
+</ul>
 # My Interests
 I'm interested in Robotics, Automation, Artificial Intelligence, Drones and many
 other technical topics.
