@@ -9,6 +9,9 @@ Here is a list of projects that I have been working on
   <li>
     <a href="https://faalbers.github.io/HelloWorld">Hello World Project</a>
   </li>
+  <li>
+    <a href="https://github.com/thewecanzone/GitHubForDummiesReaders">GitHub For Dummies Repo</a>
+  </li>
 </ul>
 # My Interests
 I'm interested in Robotics, Automation, Artificial Intelligence, Drones and many
